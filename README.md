@@ -12,7 +12,7 @@
 
 **Programming Languages:** C, PYTHON, CSS, and HTML<br>
 
-**Areas of Focus:** Data Analyst, BI and IA
+**Areas of Focus:** Data Analyst, BI and AI
 
 **Tools:** GitHub and GIT<br>
 
