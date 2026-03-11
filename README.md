@@ -12,7 +12,7 @@
 
 **Programming Languages:** C, PYTHON, CSS, and HTML<br>
 
-**Areas of Focus:** System Security, Networking, and Cryptography<br>
+**Areas of Focus:** Data Analyst, BI and IA
 
 **Tools:** GitHub and GIT<br>
 
