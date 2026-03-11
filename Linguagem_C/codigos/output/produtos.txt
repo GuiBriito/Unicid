@@ -1,0 +1,6 @@
+1;camara de ar;seila;30.00;10000;saint gobain
+2;celula de carga ;celula de carga;50.00;100000000;Re Italia
+3;perfume kifty;perfume;30.00;100000;Joao Brito
+4;perfume gb;perfume;30.00;100000;Joao Brito
+5;pao;pao;2.00;1000000;padoca do bairro
+6;pinnto de borracha;penis;500.00;1000000;icro
